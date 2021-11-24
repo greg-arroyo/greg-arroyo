@@ -5,7 +5,6 @@
 const greg = {
   code: [Javascript, Typescript, HTML, CSS, PHP, C#, Liquid],
   tools: [Angular, Vue, Node, Angular Playground, .NET Core, SQL, Docker],
-  architecture: ["microservices", "spa", "fullstack", "shopify"],
-  challenge: "Personal weight loss challenge of 221 lbs. in 2021"
+  architecture: ["microservices", "spa", "fullstack", "shopify"]
 }
 ```
