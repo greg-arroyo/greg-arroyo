@@ -3,8 +3,11 @@
 
 ```javascript
 const greg = {
-  code: [Javascript, Typescript, HTML, CSS, PHP, C#, Liquid],
-  tools: [Angular, Vue, Node, Angular Playground, .NET Core, SQL, Docker],
-  architecture: ["microservices", "spa", "fullstack", "shopify"]
+  code: ['JavaScript', 'TypeScript', 'HTML', 'S/CSS', 'PHP', 'C#', 'TSQL', 'Liquid'],
+  frameworks: ['Angular', '.NET Core', 'Swagger', 'Powershell'],
+  libraries: ['Vue'],
+  platforms: ['Shopify', 'Firebase'],
+  tools: ['Azure DevOps', 'Jira', 'Git', 'Netlify', 'Jetbrains', 'VS Code', 'Docker', 'Cmder'],
+  architecture: ['microservices', 'spa', 'fullstack', 'RESTful']
 }
 ```
