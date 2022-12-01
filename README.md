@@ -1,5 +1,5 @@
 ### Hello! I'm Greg, co-creator of three whom have yet to use a WYSIWYG.
-<p><em>Senior Software Enginner at <a href="https://www.socreate.it">SoCreate</a></em></p>
+<p><em>Senior Software Engineer at <a href="https://www.socreate.it">SoCreate</a></em></p>
 
 ```javascript
 const greg = {
