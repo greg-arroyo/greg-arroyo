@@ -1,5 +1,5 @@
 ### Software professional focused on front-end development with a strong knowledge of backend technologies; including strategy, planning, and automating processes / workflows whenever possible!
-<p><em>Senior Staff Software Engineer at <a href="https://www.siriusxm.com">SiriusXM</a></em></p>
+<p><em>Senior Staff Software Engineer at SiriusXM</em></p>
 
 ```javascript
 const greg = {
