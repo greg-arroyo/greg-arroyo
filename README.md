@@ -4,7 +4,7 @@
 ```javascript
 const greg = {
   code: ['JavaScript', 'TypeScript', 'HTML', 'S/CSS', 'PHP', 'C#', 'TSQL', 'PowerShell', 'Liquid'],
-  frameworks: ['Angular', 'NgRx', '.NET Core', 'EF Core', 'Swagger', 'Jest', 'PHPUnit'],
+  frameworks: ['Angular', 'NgRx', '.NET Core', 'EF Core', 'Swagger', 'Cypress', 'Jest', 'PHPUnit'],
   platforms: ['Microsoft Azure', 'Docker', 'Shopify', 'Firebase'],
   tools: ['CI/CD', 'Azure DevOps/Pipelines', 'Containers', 'Jira', 'Jetbrains', 'VS Code'],
   architecture: ['microservices', 'spa', 'fullstack', 'RESTful']
